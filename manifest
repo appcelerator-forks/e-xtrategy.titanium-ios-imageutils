@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.0.1
+apiversion: 2
+description: My module
+author: Emanuele Rampichini
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: ImageUtils
+moduleid: it.extrategy.imageutils
+guid: 29c1f560-e2cd-49ba-96ce-f146d5692c50
+platform: iphone
+minsdk: 3.0.2.GA
